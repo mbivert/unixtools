@@ -24,3 +24,15 @@ path = "src/echo3/main.rs"
 [[bin]]
 name = "cat"
 path = "src/cat/main.rs"
+
+[[bin]]
+name = "cat1"
+path = "src/cat1/main.rs"
+
+[[bin]]
+name = "cat2"
+path = "src/cat2/main.rs"
+
+[[bin]]
+name = "cat3"
+path = "src/cat3/main.rs"
