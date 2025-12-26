@@ -1,0 +1,26 @@
+[package]
+name = "unixtools"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "echo"
+path = "src/echo/main.rs"
+
+[[bin]]
+name = "echo1"
+path = "src/echo1/main.rs"
+
+[[bin]]
+name = "echo2"
+path = "src/echo2/main.rs"
+
+[[bin]]
+name = "echo3"
+path = "src/echo3/main.rs"
+
+[[bin]]
+name = "cat"
+path = "src/cat/main.rs"
